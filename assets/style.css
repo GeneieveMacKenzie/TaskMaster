@@ -1,0 +1,11 @@
+.checkmark{
+    color: green
+}
+
+.deletebutton{
+    color: red
+}
+
+.strike{
+    text-decoration: line-through
+}
